@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "ba2cbb0a-04cd-4472-9a1f-8ed4b73dd832",
+		"name": "IceCool",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/api/v1/order",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \n        \"flavor\":\"raspberry slushy\",\n        \"condiments\":[\"sprinkless\",\"oreo crumbles\"],\n        \"cone\":\"wafer cone\"\n   \n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/v1/order",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"order"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

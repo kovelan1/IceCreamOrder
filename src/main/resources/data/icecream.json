@@ -1,0 +1,188 @@
+{
+	"flavors":[
+		{
+		"name":"raspberry slushy",
+		"price":"200.00",
+		"availableCondiments":[
+			{
+				"name":"sprinkless",
+				"price":""
+			},
+			{
+				"name":"toasted marshmallow",
+				"price":""
+			},
+			{
+				"name":"dash of peanut butter",
+				"price":""
+			},
+			{
+				"name":"oreo crumbles",
+				"price":""
+			},
+			{
+				"name":"dried apples",
+				"price":""
+			},
+			{
+				"name":"dried mango",
+				"price":""
+			},
+			{
+				"name":"dried apricot",
+				"price":""
+			},
+			{
+				"name":"dried blueberry",
+				"price":""
+			}
+		]
+	},
+	{
+		"name":"coco coffee",
+		"price":"350.00",
+		"availableCondiments":[
+			
+			{
+				"name":"toasted almond flakes",
+				"price":"150.00"
+			}
+			,
+			{
+				"name":"dash of peanut butter",
+				"price":"50.00"
+			},
+			{
+				"name":"oreo crumbles",
+				"price":"60.00"
+			}
+		]
+	}
+	,
+	{
+		"name":"nutty fruiyt",
+		"price":"150.00",
+		"availableCondiments":[
+			{
+				"name":"sprinkless",
+				"price":"50.00"
+			},
+			{
+				"name":"toasted marshmallow",
+				"price":"100.00"
+			},
+			{
+				"name":"toasted almond flakes",
+				"price":"150.00"
+			},
+			{
+				"name":"dash of peanut butter",
+				"price":"50.00"
+			},
+			{
+				"name":"oreo crumbles",
+				"price":"60.00"
+			},
+			{
+				"name":"dried apples",
+				"price":"25.00"
+			},
+			{
+				"name":"dried mango",
+				"price":"30.00"
+			},
+			{
+				"name":"dried apricot",
+				"price":"40.00"
+			},
+			{
+				"name":"dried blueberry",
+				"price":"45.00"
+			}
+		]
+	},
+	{
+		"name":"pistachio delight",
+		"price":"350.00",
+		"availableCondiments":[
+			{
+				"name":"toasted marshmallow",
+				"price":"100.00"
+			},
+			{
+				"name":"toasted almond flakes",
+				"price":"150.00"
+			}
+			,
+			{
+				"name":"dash of peanut butter",
+				"price":"50.00"
+			},
+			{
+				"name":"oreo crumbles",
+				"price":"60.00"
+			}
+		]
+	}
+	],
+	
+	"condiments":[
+			{
+				"name":"sprinkless",
+				"price":"50.00"
+			},
+			{
+				"name":"toasted marshmallow",
+				"price":"100.00"
+			},
+			{
+				"name":"toasted almond flakes",
+				"price":"150.00"
+			},
+			{
+				"name":"dash of peanut butter",
+				"price":"50.00"
+			},
+			{
+				"name":"oreo crumbles",
+				"price":"60.00"
+			},
+			{
+				"name":"dried apples",
+				"price":"25.00"
+			},
+			{
+				"name":"dried mango",
+				"price":"30.00"
+			},
+			{
+				"name":"dried apricot",
+				"price":"40.00"
+			},
+			{
+				"name":"dried blueberry",
+				"price":"45.00"
+			}
+	],
+	
+	"cones":[
+			{
+				"name":"wafer cone",
+				"price":"20.00"
+			},
+			{
+				"name":"waffle cone",
+				"price":"40.00"
+			},
+			{
+				"name":"waffle bowl",
+				"price":"50.00"
+			},
+			{
+				"name":"sandwitch wafers",
+				"price":"60.00"
+			}
+	]
+	
+}
+	
